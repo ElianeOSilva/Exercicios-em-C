@@ -1,4 +1,4 @@
-//Beecrowd 1001 Extremamente Básico
+//Beecrowd 1001 Extremamente BÃ¡sico - Eliane Maria 
 
 
 #include <stdio.h>
@@ -13,7 +13,7 @@ int main() {
     //processamento
     result = a + b;
     
-    //saída de dados
+    //saÃ­da de dados
     printf("X = %d\n", result); 
     
     return 0;
